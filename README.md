@@ -1,6 +1,6 @@
 # 🦷 Teeth Image Classification Project
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
 ![Streamlit](https://img.shields.io/badge/Deployed%20With-Streamlit-red?logo=streamlit)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -28,11 +28,16 @@ This has potential use cases in **dental diagnostics** and educational tools.
 
 ## 🏗️ Project Structure
 
-📦teeth-classification
+📦teeth-diseases-classification
+
 ┣ 📂data/ ← original images (not uploaded)
+
 ┣ 📂models/ ← saved Keras models (.keras)
+
 ┣ 📂notebooks/ ← EDA & experiments
+
 ┣ 📜app.py ← Streamlit deployment script
+
 ┗ 📜README.md
 
 ---
