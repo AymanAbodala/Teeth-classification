@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 
-This is a complete end-to-end **Image Classification** project built for classifying dental images into their respective categories.  
+This is a complete end-to-end **Image Classification** project built for classifying dental diseases images into their respective categories.  
 The project showcases:
 
 ✅ Model from scratch using CNN  
